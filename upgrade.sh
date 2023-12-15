@@ -26,3 +26,6 @@ cp /opt/netbox-3.1.4/gunicorn.py /opt/netbox/
 
 systemctl restart netbox netbox-rq
 systemctl status netbox netbox-rq
+q
+cd
+rm NetBox_Upgrade
